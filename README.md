@@ -2,7 +2,6 @@
 
 This is the our final project created for Microsoft Future Ready Talent Virtual Internship Program
 
-https://white-moss-0ef554e00.3.azurestaticapps.net/
 
 
 Web Technologies used : HTML, CSS, JS, Bootstrap
